@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://blosson.netlify.app/sitemap.xml
